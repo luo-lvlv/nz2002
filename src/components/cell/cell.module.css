@@ -1,0 +1,3 @@
+.cell { padding:0.2rem 0.4rem;border-bottom:1px dashed #ccc;color:#494d4d; }
+.cell h2{max-height:0.9rem; font-size:0.33rem; overflow:hidden;}
+.cell p{max-height:1.8rem; margin-top:0.05rem;overflow:hidden;}
